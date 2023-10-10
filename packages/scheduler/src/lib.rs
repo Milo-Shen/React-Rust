@@ -1,1 +1,1 @@
-mod SchedulerFeatureFlags;
+mod scheduler_feature_flags;
